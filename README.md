@@ -1,8 +1,19 @@
-# React + Vite
+# Book Info App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Book Info App! This web application allows users to search for books and view their details fetched from a third-party API.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React: JavaScript library for building user interfaces.
+- Vite: Next-generation front-end tooling system.
+- Tailwind CSS: Utility-first CSS framework for styling.
+- softwium.com/api/: The name of the API used for fetching book data.
+
+## Getting Started
+
+To get started with the Book Info App, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/SachinNawale2063/Book_Info_App`
+2. Navigate to the project directory: `cd book-info-app`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
